@@ -1,1 +1,1 @@
-# learning-c-sharp
+# Learning C# with some exercises 
