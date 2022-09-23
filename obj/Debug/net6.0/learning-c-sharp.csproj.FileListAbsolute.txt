@@ -1,0 +1,15 @@
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/bin/Debug/net6.0/learning-c-sharp
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/bin/Debug/net6.0/learning-c-sharp.deps.json
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/bin/Debug/net6.0/learning-c-sharp.runtimeconfig.json
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/bin/Debug/net6.0/learning-c-sharp.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/bin/Debug/net6.0/learning-c-sharp.pdb
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/obj/Debug/net6.0/learning-c-sharp.csproj.AssemblyReference.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/obj/Debug/net6.0/learning-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/obj/Debug/net6.0/learning-c-sharp.AssemblyInfoInputs.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/obj/Debug/net6.0/learning-c-sharp.AssemblyInfo.cs
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/obj/Debug/net6.0/learning-c-sharp.csproj.CoreCompileInputs.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/obj/Debug/net6.0/learning-c-sharp.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/obj/Debug/net6.0/refint/learning-c-sharp.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/obj/Debug/net6.0/learning-c-sharp.pdb
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/obj/Debug/net6.0/learning-c-sharp.genruntimeconfig.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/obj/Debug/net6.0/ref/learning-c-sharp.dll
