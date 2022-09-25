@@ -11,7 +11,7 @@ namespace ConsoleCreatures
             Console.WriteLine("| 0 |");
             Console.WriteLine("|   |");
             Console.WriteLine("'~~~'");
-            Console.WriteLine(" Bore ");
+            Console.WriteLine(" I am the ghost Bore ");
         }
     }
 }
