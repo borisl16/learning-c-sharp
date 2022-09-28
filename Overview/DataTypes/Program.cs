@@ -1,6 +1,6 @@
 ﻿// Exercise file for LinkedIn Learning Course .NET Programming with C# by Joe Marini
 // Example file for .NET Data Types
-
+using System;
 // Declare some types with values
 int a = 1;
 char c = 'A';
@@ -12,7 +12,10 @@ bool tf = default;
 Console.WriteLine($"{a}, {b}, {tf}, {c}, {f}, {d}");
 
 // TODO: implicit type conversion
-
+Console.WriteLine($"{c + a}");
+Console.WriteLine($"{(char)(c + a)}");
+Console.WriteLine($"{f + a}");
+Console.WriteLine($"{f + c}");
 
 // TODO: Create an instance of a struct (which is a value type)
 
