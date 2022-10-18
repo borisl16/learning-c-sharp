@@ -1,0 +1,15 @@
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
