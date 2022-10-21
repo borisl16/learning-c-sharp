@@ -1,12 +1,7 @@
 ﻿using System;
-
-namespace VarsAndData
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
             // Declare some basic value type variables
+
+
             var i = 10;
             float f = 2.0f;
             decimal d = 10.0m;
@@ -25,16 +20,19 @@ namespace VarsAndData
                 string[] strs = {"one", "two", "three"};
 
             // TODO: Print the values using a Formatting String
-                // Console.WriteLine("{0},{1},{2},{3},{4},{5},{6},{7}", i,c,b,str,f,d,x,z);
+            // Console.WriteLine("{0},{1},{2},{3},{4},{5},{6},{7}", i,c,b,str,f,d,x);
 
             // TODO: "null" means "no value"
-            Console.WriteLine(z);
+            object obj = null;
+            Console.WriteLine(obj);
 
             // TODO: Implicit conversion between types
-
+                long bignum;
+                bignum =i;
 
             // TODO: Explicit conversions
+            float i_to_f = (float)i;
+            Console.WriteLine(i_to_f);
 
-        }
-    }
-}
+            int f_to_i = (int)f;
+            Console.WriteLine(f_to_i);

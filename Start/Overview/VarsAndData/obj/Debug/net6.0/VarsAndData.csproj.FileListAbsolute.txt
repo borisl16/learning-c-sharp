@@ -1,0 +1,15 @@
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.deps.json
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.runtimeconfig.json
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.pdb
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.csproj.AssemblyReference.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.AssemblyInfoInputs.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.AssemblyInfo.cs
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.csproj.CoreCompileInputs.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/obj/Debug/net6.0/refint/VarsAndData.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.pdb
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.genruntimeconfig.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/VarsAndData/obj/Debug/net6.0/ref/VarsAndData.dll

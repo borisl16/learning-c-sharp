@@ -1,16 +1,19 @@
 ﻿using System;
 
-namespace Comments
+
+
+/// <summary>
+/// This is the main sample application function
+/// </summary>
+/// <param name="args"> An array of string arguments from the command line.</param>
+/// <returns> 
+/// No return value
+/// </returns>
+
+internal class Program
 {
-    class Program
+    private static void Main(string[] args)
     {
-        /// XML Comments are used to help provide documentation
-        /// They start with triple-slashes and have a special syntax
-        static void Main(string[] args)
-        {
-
-            Console.WriteLine("Hello World!");
-
-        }
+        Console.WriteLine("Hello World!");
     }
 }

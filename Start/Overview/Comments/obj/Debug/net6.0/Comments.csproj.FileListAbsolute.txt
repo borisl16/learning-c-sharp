@@ -1,0 +1,16 @@
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/bin/Debug/net6.0/Comments
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/bin/Debug/net6.0/Comments.deps.json
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/bin/Debug/net6.0/Comments.runtimeconfig.json
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/bin/Debug/net6.0/Comments.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/bin/Debug/net6.0/Comments.pdb
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/obj/Debug/net6.0/Comments.csproj.AssemblyReference.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/obj/Debug/net6.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/obj/Debug/net6.0/Comments.AssemblyInfoInputs.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/obj/Debug/net6.0/Comments.AssemblyInfo.cs
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/obj/Debug/net6.0/Comments.csproj.CoreCompileInputs.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/obj/Debug/net6.0/Comments.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/obj/Debug/net6.0/refint/Comments.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/obj/Debug/net6.0/Comments.pdb
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/obj/Debug/net6.0/Comments.genruntimeconfig.cache
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/obj/Debug/net6.0/ref/Comments.dll
+/Users/borisl/Desktop/Projects/C-Sharp/learning-c-sharp/Start/Overview/Comments/bin/Debug/net6.0/Comments.xml
