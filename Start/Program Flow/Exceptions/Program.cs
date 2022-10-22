@@ -23,5 +23,5 @@
                 Console.WriteLine(e.Message);
             }
             finally {
-                Console.WriteLine("This code always runs!");
+                Console.WriteLine("This code always runs.");
             }
